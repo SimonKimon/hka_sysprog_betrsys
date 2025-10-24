@@ -56,3 +56,9 @@ dkms.conf
 
 #files
 *.idea/
+*.DS_Store
+*Blatt_1/2a/
+*Blatt_1/2b/
+*Blatt_1/RayTracer/
+*Blatt_1/2b/cmake-build-release/
+*.txt
